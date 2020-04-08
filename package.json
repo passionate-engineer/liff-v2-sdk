@@ -1,6 +1,6 @@
 {
   "name": "liff-v2-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./sdk.js",
   "types": "./sdk.d.ts",
